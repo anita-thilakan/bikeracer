@@ -17,8 +17,8 @@ var pinkendstate,redendstate;
 
 function preload(){
   pathImg = loadAnimation("Road.png");
-  mainRacerImg1 = loadAnimation("images/mainPlayer1.png","images/mainPlayer2.png");
-  mainRacerImg2= loadAnimation("images/mainPlayer3.png");
+  mainRacerImg1 = loadAnimation("mainPlayer1.png","mainPlayer2.png");
+  mainRacerImg2= loadAnimation("mainPlayer3.png");
   
   cyclebell = loadSound("sound/bell.mp3")
   
