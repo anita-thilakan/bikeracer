@@ -16,7 +16,7 @@ function preload(){
   pathImg = loadImage("images/Road.png");
   mainRacerImg1 = loadAnimation("images/mainPlayer1.png","images/mainPlayer2.png");
   mainRacerImg2= loadAnimation("images/mainPlayer3.png");
-  pink = loadAnimation("opponent1.png","opponent2.png")
+  pink = loadAnimation("images/opponent1.png","images/opponent2.png")
   yellow = loadAnimation("opponent4.png", "opponent5.png")
   bell = loadSound("sound/bell.mp3")
   pink_fell = loadImage("opponent3.png")
